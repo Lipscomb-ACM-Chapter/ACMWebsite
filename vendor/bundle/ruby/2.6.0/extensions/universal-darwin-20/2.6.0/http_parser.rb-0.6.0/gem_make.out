@@ -1,5 +1,5 @@
 current directory: /Users/noahstephens/school/ACMWebsite/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210121-12688-1jw4jt9.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210121-14266-ygggv2.rb extconf.rb
 creating Makefile
 
 current directory: /Users/noahstephens/school/ACMWebsite/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -17,4 +17,4 @@ ld: warning: ignoring file ryah_http_parser.o, building for macOS-arm64e but att
 
 current directory: /Users/noahstephens/school/ACMWebsite/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210121-12688-1pnpht6
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210121-14266-1vaduef
